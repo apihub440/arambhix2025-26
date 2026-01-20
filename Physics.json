@@ -1,0 +1,156 @@
+{
+  "subject": "physics",
+  "class": "9",
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Motion",
+      "videos": [
+        {
+          "id": "lec2",
+          "title": "Motion Lecture - 2",
+          "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4357724/174532620129898296383/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec3",
+          "title": "Motion Lecture - 3",
+          "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4359011/174542283188648296383/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec4",
+          "title": "Motion Lecture - 4",
+          "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4363242/174584458672078296383/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec5",
+          "title": "Motion Lecture - 5",
+          "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4364523/174592976773988296383/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec6",
+          "title": "Motion Lecture - 6",
+          "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4366027/174602777136308296383/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec7",
+          "title": "Motion Doubt Solving",
+          "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4372218/174645099842398296383/index_4.m3u8",
+          "notes": "#"
+        }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Force and Laws of Motion",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Force and Laws of Motion Lecture - 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4417639/175068363626798929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec2",
+          "title": "Force and Laws of Motion Lecture - 2",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4418596/175077006467408929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec3",
+          "title": "Force and Laws of Motion Lecture - 3",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4419830/175086642753098929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec4",
+          "title": "Force and Laws of Motion Lecture - 4",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4460002/175128814941128929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec5",
+          "title": "Force and Laws of Motion Doubt Solving",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4461910/175146019587088929414/index_4.m3u8",
+          "notes": "#"
+        }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Gravitation",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Gravitation Lecture - 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4489680/175318788990548929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec2",
+          "title": "Gravitation Lecture - 2",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4491676/175328518080878929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec3",
+          "title": "Gravitation Lecture - 3",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4501574/175370742466788929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec4",
+          "title": "Gravitation Lecture - 4",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4503185/175379363929828929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec5",
+          "title": "Gravitation Lecture - 5",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4504553/175388934732708929414/index_4.m3u8",
+          "notes": "#"
+        }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Work, Power and Energy",
+      "videos": [
+        {
+          "id": "lec1",
+          "title": "Work, Power and Energy Lecture - 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4529929/175612597167088929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec2",
+          "title": "Work, Power and Energy Lecture - 2",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4531182/175621274593798929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec3",
+          "title": "Work, Power and Energy Lecture - 3",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4532709/175630959334768929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec4",
+          "title": "Work, Power and Energy Lecture - 4",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4536858/175673301613418929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "id": "lec5",
+          "title": "Work, Power and Energy Lecture - 5",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4537904/175681604869028929414/index_4.m3u8",
+          "notes": "#"
+        }
+      ]
+    }
+  ]
+}
