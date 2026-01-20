@@ -1,0 +1,116 @@
+{
+  "subject": "Biology",
+  "class": "9",
+  "chapters": [
+    {
+      "chapter": "The Fundamental Unit of Life",
+      "lectures": [
+        {
+          "title": "Lecture 1",
+          "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4385663/174765778737748296383/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "title": "Lecture 2",
+          "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4388166/174784311082348296383/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "title": "Lecture 3",
+          "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4392729/174826422289318296383/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "title": "Lecture 4",
+          "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4393920/174834967737708296383/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "title": "Lecture 5",
+          "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4395109/174844706284808296383/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "title": "Lecture 6",
+          "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4404108/174931141517868296383/index_4.m3u8",
+          "notes": "#"
+        }
+      ]
+    },
+    {
+      "chapter": "Tissues",
+      "lectures": [
+        {
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4475881/175189250719138929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "title": "Lecture 2",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4476776/175197829846758929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "title": "Lecture 3",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4478171/175207564070148929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "title": "Lecture 4",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4481913/175249800035998929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "title": "Lecture 5",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4482890/175258462787808929414/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "title": "Lecture 6",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4484120/175268040413938929414/index_4.m3u8",
+          "notes": "#"
+        }
+      ]
+    },
+    {
+      "chapter": "Improvement in Food Resources",
+      "lectures": [
+        {
+          "title": "Lecture 1",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4544172/175733464850173740487/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "title": "Lecture 2",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4545144/175742140627453740487/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "title": "Lecture 3",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4546266/175751856760203740487/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "title": "Lecture 4",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4549761/175794037859393740487/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "title": "Lecture 5",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4550816/175802570740983740487/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "title": "Lecture 6",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4552106/175812328870713740487/index_4.m3u8",
+          "notes": "#"
+        },
+        {
+          "title": "Lecture 7",
+          "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4555741/175854451315923740487/index_4.m3u8",
+          "notes": "#"
+        }
+      ]
+    }
+  ]
+}
