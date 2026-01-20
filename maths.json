@@ -1,0 +1,127 @@
+{
+  "subject": "Maths",
+  "class": "9",
+  "chapters": [
+    {
+      "chapter": "Number System",
+      "lectures": [
+        { "title": "Lecture 1", "play": "https://www.youtube.com/live/F6v_8tOEYrc?si=i3x0NAtBdsr_VyGB", "notes": "#" },
+        { "title": "Lecture 2", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4360152/174550928629871097666/index_5.m3u8", "notes": "#" },
+        { "title": "Lecture 3", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4361156/174558576440391097666/index_5.m3u8", "notes": "#" },
+        { "title": "Lecture 4", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4362008/174567183539581097666/index_5.m3u8", "notes": "#" },
+        { "title": "Lecture 5", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4367149/174611361544421097666/index_5.m3u8", "notes": "#" },
+        { "title": "Lecture 6", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4368222/174619110643541097666/index_5.m3u8", "notes": "#" },
+        { "title": "Lecture 7", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4370049/174627933537761097666/index_5.m3u8", "notes": "#" }
+      ]
+    },
+    {
+      "chapter": "Polynomials",
+      "lectures": [
+        { "title": "Lecture 1", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4376184/174671865862761097666/index_5.m3u8", "notes": "#" },
+        { "title": "Lecture 2", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4377207/174679563175571097666/index_5.m3u8", "notes": "#" },
+        { "title": "Lecture 3", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4377938/174688306660241097666/index_5.m3u8", "notes": "#" },
+        { "title": "Lecture 4", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4383998/174739970880251097666/index_5.m3u8", "notes": "#" },
+        { "title": "Lecture 5", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4384765/174748733028261097666/index_5.m3u8", "notes": "#" },
+        { "title": "Lecture 6", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4384986/174757357814051097666/index_5.m3u8", "notes": "#" },
+        { "title": "Lecture 7", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4389346/174793035190161097666/index_5.m3u8", "notes": "#" },
+        { "title": "Lecture 8", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4390842/174800460375161097666/index_5.m3u8", "notes": "#" },
+        { "title": "Lecture 9", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4391472/174809232290121097666/index_5.m3u8", "notes": "#" }
+      ]
+    }
+  ]
+}{
+  "chapters": [
+    {
+      "chapter": "Coordinate Geometry",
+      "lectures": [
+        { "title": "Lecture 1", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4396260/174853287832481261798/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 2", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4397075/174860816936171261798/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 3", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4397715/174869387171741261798/index_4.m3u8", "notes": "#" }
+      ]
+    },
+    {
+      "chapter": "Linear Equations in Two Variables",
+      "lectures": [
+        { "title": "Lecture 1", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4408426/174974223257041261798/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 2", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4409327/174981810598981261798/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 3", "play": "https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4410122/174990428067631261798/index_4.m3u8", "notes": "#" }
+      ]
+    },
+    {
+      "chapter": "Lines and Angles",
+      "lectures": [
+        { "title": "Lecture 1", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4414993/175034844671898752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 2", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4415948/175042402315178752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 3", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4416586/175051018944158752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 4", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4426270/175102838146088752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 5", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4427364/175111482017818752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 6", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4461096/175138425048988752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 7", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4479244/175216303598138752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 8", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4480065/175223691334828752407/index_4.m3u8", "notes": "#" }
+      ]
+    },
+    {
+      "chapter": "Triangles",
+      "lectures": [
+        { "title": "Lecture 1", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4480736/175232416413558752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 2", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4485929/175284331075788752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 3", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4486805/175292922251078752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 4", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4486980/175299159543288752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 5", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4492909/175337362774398752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 6", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4493830/175344775652878752407/index_4.m3u8", "notes": "#" }
+      ]
+    }
+  ]
+}{
+  "chapters": [
+    {
+      "chapter": "Herons Formula",
+      "lectures": [
+        { "title": "Lecture 1", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4510437/175405219348975373082/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 2", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4511223/175413794628705373082/index_4.m3u8", "notes": "#" }
+      ]
+    },
+    {
+      "chapter": "Quadrilaterals",
+      "lectures": [
+        { "title": "Lecture 1", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4515403/175458081494208752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 2", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4516040/175465643215448752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 3", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4516362/175483754793748752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 4", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4521540/175526130326508752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 5", "play": "https://d3cx6qbbd4cbso.cloudfront.net/file_library/videos/vod_non_drm_ios/4525206/1755685344_9634935742757644/sunny/1755684816239_709717947228584700_video_VOD720p30.m3u8", "notes": "#" },
+        { "title": "Lecture 6", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4526799/175579048541278752407/index_4.m3u8", "notes": "#" }
+      ]
+    },
+    {
+      "chapter": "Circles",
+      "lectures": [
+        { "title": "Lecture 1", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4527717/175586607818868752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 2", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4528708/175595299483148752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 3", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4533856/175639475922338752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 4", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4534732/175647106316348752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 5", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4542469/175707576270358752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 6", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4543087/175716112788748752407/index_4.m3u8", "notes": "#" }
+      ]
+    },
+    {
+      "chapter": "Statistics",
+      "lectures": [
+        { "title": "Lecture 1", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4553010/175820981721675373082/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 2", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4553758/175828528656765373082/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 3", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4554682/175837066490755373082/index_4.m3u8", "notes": "#" }
+      ]
+    },
+    {
+      "chapter": "Surface Area and Volume",
+      "lectures": [
+        { "title": "Lecture 1", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4559586/175881427324708752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 2", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4560475/175889017325548752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 3", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4561522/175897600915978752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 4", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4566376/175949466441518752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 5", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4567353/175958166722658752407/index_4.m3u8", "notes": "#" },
+        { "title": "Lecture 6", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4580287/176062855963788752407/index_1.m3u8", "notes": "#" },
+        { "title": "Lecture 7", "play": "https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4581047/176070530138478752407/index_1.m3u8", "notes": "#" }
+      ]
+    }
+  ]
+}
